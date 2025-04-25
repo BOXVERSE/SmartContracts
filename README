@@ -1,1 +1,3 @@
 crownfund -- BOXVERSE crownfunding AI agent contract
+smart wallet -- BOXVERSE account abrtraction implementation
+ex: export FOUNDRY_PROFILE=deploy && forge script script/DeployFactory.s.sol --rpc-url https://opbnb-mainnet.g.alchemy.com/v2/H2xR80WpJi9ZAu3TRVkvfiXYjw2HN9Eu  --account BERACHAIN --broadcast --verifyexport FOUNDRY_PROFILE=deploy && forge script script/DeployFactory.s.sol --rpc-url https://opbnb-mainnet.g.alchemy.com/v2/H2xR80WpJi9ZAu3TRVkvfiXYjw2HN9Eu  --account BERACHAIN --broadcast --verify
